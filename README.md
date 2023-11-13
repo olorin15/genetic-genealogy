@@ -27,4 +27,4 @@ R code using Jupyter notebooks includes
 
 Also see my blog at <https://timpiatenko.substack.com/s/genetic-genealogy>
 
-Specifinnaly this post: <https://open.substack.com/pub/timpiatenko/p/genetic-analysis-tools-for-the-hobbyists>
+Specifically this post: <https://open.substack.com/pub/timpiatenko/p/genetic-analysis-tools-for-the-hobbyists>
